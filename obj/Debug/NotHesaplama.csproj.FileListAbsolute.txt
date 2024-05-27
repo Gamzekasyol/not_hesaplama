@@ -1,0 +1,10 @@
+C:\Users\Gamze\source\repos\NotHesaplama\bin\Debug\NotHesaplama.exe.config
+C:\Users\Gamze\source\repos\NotHesaplama\bin\Debug\NotHesaplama.exe
+C:\Users\Gamze\source\repos\NotHesaplama\bin\Debug\NotHesaplama.pdb
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.csproj.AssemblyReference.cache
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.Form1.resources
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.Properties.Resources.resources
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.exe
+C:\Users\Gamze\source\repos\NotHesaplama\obj\Debug\NotHesaplama.pdb
